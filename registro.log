@@ -1,0 +1,174 @@
+2025-06-03 07:57:58,525 [INFO] == Evaluador de Riesgos con IA iniciado ==
+2025-06-03 08:00:00,504 [INFO] Interfaz gráfica mostrada correctamente
+2025-06-03 08:00:06,637 [INFO] Botón Iniciar pulsado (sin funcionalidad aún)
+2025-06-03 08:10:24,040 [INFO] Iniciando carga simulada del modelo IA...
+2025-06-03 08:10:24,040 [INFO] Interfaz principal mostrada
+2025-06-03 08:10:25,204 [ERROR] Carga fallida: IA no está entrenada.
+2025-06-03 08:14:20,910 [INFO] Iniciando carga simulada del modelo IA...
+2025-06-03 08:14:20,910 [INFO] Interfaz principal mostrada
+2025-06-03 08:14:22,082 [ERROR] Carga fallida: IA no está entrenada.
+2025-06-03 08:15:14,693 [INFO] Ventana principal cargada correctamente.
+2025-06-03 08:15:15,469 [ERROR] No se encontró el modelo en: modelo/pesos_entrenados.pth
+2025-06-06 14:24:44,636 [INFO] Ventana principal cargada correctamente.
+2025-06-06 14:24:45,373 [INFO] Modelo cargado correctamente.
+2025-06-06 14:30:10,188 [INFO] Ventana principal cargada correctamente.
+2025-06-06 14:30:10,917 [INFO] Modelo cargado correctamente.
+2025-06-06 14:30:26,444 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 14:30:31,410 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 14:30:40,289 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124638.jpg
+2025-06-06 14:30:48,632 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 14:30:53,970 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 14:31:01,802 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 14:31:17,697 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124647.jpg
+2025-06-06 14:31:19,126 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124647.jpg
+2025-06-06 14:31:22,027 [INFO] Ventana de evaluación cerrada por el usuario.
+2025-06-06 14:33:14,021 [INFO] Ventana principal cargada correctamente.
+2025-06-06 14:33:14,748 [ERROR] No se encontró el modelo en: modelo/pesos_entrenados.pth
+2025-06-06 14:38:09,119 [INFO] Ventana principal cargada correctamente.
+2025-06-06 14:38:09,849 [INFO] Modelo cargado correctamente.
+2025-06-06 14:38:20,963 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 14:38:22,189 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 14:38:26,533 [INFO] Detecciones encontradas: []
+2025-06-06 14:38:34,561 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 14:38:36,907 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 14:38:37,034 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 14:38:46,581 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 14:38:46,702 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 14:38:55,100 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124638.jpg
+2025-06-06 14:38:57,530 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124638.jpg
+2025-06-06 14:38:57,674 [INFO] Detecciones encontradas: []
+2025-06-06 14:39:03,630 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124647.jpg
+2025-06-06 14:39:05,540 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124647.jpg
+2025-06-06 14:39:05,664 [INFO] Detecciones encontradas: []
+2025-06-06 14:39:12,165 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 14:39:13,232 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 14:39:13,366 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 15:30:33,854 [INFO] Ventana principal cargada correctamente.
+2025-06-06 15:30:34,584 [INFO] Modelo cargado correctamente.
+2025-06-06 15:30:42,572 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 15:30:50,432 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 15:30:53,725 [INFO] Detecciones encontradas: []
+2025-06-06 15:31:02,055 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124638.jpg
+2025-06-06 15:31:03,651 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124638.jpg
+2025-06-06 15:31:03,919 [INFO] Detecciones encontradas: []
+2025-06-06 15:31:09,785 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 15:31:12,022 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 15:31:12,177 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 15:31:48,104 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO/IMG_5318.JPG
+2025-06-06 15:31:49,573 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO/IMG_5318.JPG
+2025-06-06 15:31:49,881 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.79, 'bbox': [1788.022705078125, 1155.0318603515625, 2010.7139892578125, 1613.1787109375]}, {'clase': 'mandos_inseguros', 'confianza': 0.77, 'bbox': [1539.580322265625, 476.32684326171875, 1823.1165771484375, 789.3687133789062]}]
+2025-06-06 15:32:07,335 [INFO] Ventana de evaluación cerrada por el usuario.
+2025-06-06 17:09:58,414 [INFO] Ventana principal cargada correctamente.
+2025-06-06 17:09:59,163 [INFO] Modelo cargado correctamente.
+2025-06-06 17:10:13,969 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124647.jpg
+2025-06-06 17:10:20,876 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124638.jpg
+2025-06-06 17:10:26,622 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:10:33,189 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:10:37,410 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 17:10:39,151 [INFO] Informe generado: informes\Informe Taladro 06-06-2025.docx
+2025-06-06 17:10:43,576 [INFO] Ventana de evaluación cerrada por el usuario.
+2025-06-06 17:17:40,648 [INFO] Ventana principal cargada correctamente.
+2025-06-06 17:17:41,397 [INFO] Modelo cargado correctamente.
+2025-06-06 17:17:49,856 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:17:52,183 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:17:55,387 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 17:17:57,587 [INFO] Informe generado: informes\Informe Taladro 06-06-2025.docx
+2025-06-06 17:18:43,419 [INFO] Ventana de evaluación cerrada por el usuario.
+2025-06-06 17:24:19,305 [INFO] Ventana principal cargada correctamente.
+2025-06-06 17:24:20,055 [INFO] Modelo cargado correctamente.
+2025-06-06 17:24:31,898 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:24:33,241 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:24:37,166 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 17:24:39,084 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 17-24.docx
+2025-06-06 17:25:06,867 [INFO] Ventana de evaluación cerrada por el usuario.
+2025-06-06 17:31:22,486 [INFO] Ventana principal cargada correctamente.
+2025-06-06 17:31:23,226 [INFO] Modelo cargado correctamente.
+2025-06-06 17:31:31,367 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:31:33,980 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:31:37,540 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 17:31:37,702 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 17-31.docx
+2025-06-06 17:31:52,665 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 17:31:57,485 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 17:31:57,784 [INFO] Detecciones encontradas: []
+2025-06-06 17:31:57,982 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 17-31.docx
+2025-06-06 17:36:15,822 [INFO] Ventana principal cargada correctamente.
+2025-06-06 17:36:16,580 [INFO] Modelo cargado correctamente.
+2025-06-06 17:36:27,582 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:36:29,117 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 17:36:31,894 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 17:36:32,025 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 17-36-31.docx
+2025-06-06 17:36:40,425 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124647.jpg
+2025-06-06 17:36:41,711 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_20200825_124647.jpg
+2025-06-06 17:36:41,928 [INFO] Detecciones encontradas: []
+2025-06-06 17:36:42,116 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 17-36-42.docx
+2025-06-06 17:37:19,740 [INFO] Ventana de evaluación cerrada por el usuario.
+2025-06-06 19:38:30,647 [INFO] Ventana principal cargada correctamente.
+2025-06-06 19:38:31,397 [INFO] Modelo cargado correctamente.
+2025-06-06 19:38:40,466 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 19:38:41,935 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 19:38:45,208 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 19:38:45,353 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 19-38-45.docx
+2025-06-06 19:38:51,910 [INFO] Ventana de evaluación cerrada por el usuario.
+2025-06-06 19:45:57,714 [INFO] Ventana principal cargada correctamente.
+2025-06-06 19:45:58,476 [INFO] Modelo cargado correctamente.
+2025-06-06 19:46:22,926 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 19:46:45,405 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-06 19:46:48,001 [INFO] Detecciones encontradas: []
+2025-06-06 19:46:48,193 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 19-46-48.docx
+2025-06-06 19:47:32,466 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 19:47:52,004 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-06 19:47:52,115 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-06 19:47:52,208 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 19-47-52.docx
+2025-06-06 19:50:26,436 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO/IMG_5318.JPG
+2025-06-06 19:50:27,698 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO/IMG_5318.JPG
+2025-06-06 19:50:27,913 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.79, 'bbox': [1788.022705078125, 1155.0318603515625, 2010.7139892578125, 1613.1787109375]}, {'clase': 'mandos_inseguros', 'confianza': 0.77, 'bbox': [1539.580322265625, 476.32684326171875, 1823.1165771484375, 789.3687133789062]}]
+2025-06-06 19:50:28,090 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 19-50-28.docx
+2025-06-06 19:52:51,658 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO/IMGP2729.JPG
+2025-06-06 19:52:52,772 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO/IMGP2729.JPG
+2025-06-06 19:52:53,378 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.51, 'bbox': [443.31121826171875, 489.47137451171875, 489.0562438964844, 740.9727783203125]}]
+2025-06-06 19:52:53,760 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 19-52-53.docx
+2025-06-06 20:13:28,928 [INFO] Ventana principal cargada correctamente.
+2025-06-06 20:13:29,675 [INFO] Modelo cargado correctamente.
+2025-06-06 20:13:56,833 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO/IMG_20200825_124630.jpg
+2025-06-06 20:13:58,170 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO/IMG_20200825_124630.jpg
+2025-06-06 20:14:00,815 [INFO] Detecciones encontradas: [{'clase': 'mandos_inseguros', 'confianza': 0.37, 'bbox': [761.7244873046875, 1372.0169677734375, 1006.4815063476562, 2408.895263671875]}]
+2025-06-06 20:14:00,980 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 20-14-00.docx
+2025-06-06 20:14:16,477 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO/DSC09825.JPG
+2025-06-06 20:14:17,816 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO/DSC09825.JPG
+2025-06-06 20:14:18,043 [INFO] Detecciones encontradas: [{'clase': 'mandos_inseguros', 'confianza': 0.64, 'bbox': [1531.5242919921875, 733.8842163085938, 1790.1082763671875, 1418.8590087890625]}]
+2025-06-06 20:14:18,208 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 20-14-18.docx
+2025-06-06 20:14:35,554 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO/IMG_5318.JPG
+2025-06-06 20:14:41,760 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO/IMG_5318.JPG
+2025-06-06 20:14:41,934 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.79, 'bbox': [1788.022705078125, 1155.0318603515625, 2010.7139892578125, 1613.1787109375]}, {'clase': 'mandos_inseguros', 'confianza': 0.77, 'bbox': [1539.580322265625, 476.32684326171875, 1823.1165771484375, 789.3687133789062]}]
+2025-06-06 20:14:42,062 [INFO] Informe generado: informes\Informe Taladro 06-06-2025 20-14-42.docx
+2025-06-06 20:16:20,374 [INFO] Ventana de evaluación cerrada por el usuario.
+2025-06-07 10:36:06,457 [INFO] Ventana principal cargada correctamente.
+2025-06-07 10:36:07,205 [INFO] Modelo cargado correctamente.
+2025-06-07 10:36:37,653 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-07 10:36:47,886 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-07 10:36:53,138 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-07 10:36:53,300 [INFO] Informe generado: informes\Informe Taladro 07-06-2025 10-36-53.docx
+2025-06-07 10:39:35,655 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-07 10:39:35,829 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-07 10:39:35,983 [INFO] Informe generado: informes\Informe Taladro 07-06-2025 10-39-35.docx
+2025-06-07 10:39:53,127 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_5318.JPG
+2025-06-07 10:39:56,018 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMG_5318.JPG
+2025-06-07 10:39:56,287 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.79, 'bbox': [1788.022705078125, 1155.0318603515625, 2010.7139892578125, 1613.1787109375]}, {'clase': 'mandos_inseguros', 'confianza': 0.77, 'bbox': [1539.580322265625, 476.32684326171875, 1823.1165771484375, 789.3687133789062]}]
+2025-06-07 10:39:56,476 [INFO] Informe generado: informes\Informe Taladro 07-06-2025 10-39-56.docx
+2025-06-07 10:41:25,650 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-07 10:43:17,334 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/35.jpg
+2025-06-07 10:43:17,685 [INFO] Detecciones encontradas: []
+2025-06-07 10:43:17,901 [INFO] Informe generado: informes\Informe Taladro 07-06-2025 10-43-17.docx
+2025-06-07 20:02:33,061 [INFO] Ventana principal cargada correctamente.
+2025-06-07 20:02:33,809 [INFO] Modelo cargado correctamente.
+2025-06-07 20:02:39,283 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-07 20:02:40,425 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-07 20:02:42,696 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-07 20:02:42,780 [INFO] Informe generado: informes\Informe Taladro 07-06-2025 20-02-42.docx
+2025-06-07 20:02:51,566 [INFO] Ventana de evaluación cerrada por el usuario.
+2025-06-07 21:03:55,822 [INFO] Ventana principal cargada correctamente.
+2025-06-07 21:03:56,545 [INFO] Modelo cargado correctamente.
+2025-06-07 21:04:01,984 [INFO] Imagen cargada: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-07 21:04:03,282 [INFO] Analizando imagen: C:/Users/alvar/Downloads/TALADRO de Prueba/IMGP2730.JPG
+2025-06-07 21:04:05,820 [INFO] Detecciones encontradas: [{'clase': 'falta_resguardo', 'confianza': 0.25, 'bbox': [411.3330078125, 353.06341552734375, 475.65411376953125, 670.5501708984375]}]
+2025-06-07 21:04:05,921 [INFO] Informe generado: informes\Informe Taladro 07-06-2025 21-04-05.docx

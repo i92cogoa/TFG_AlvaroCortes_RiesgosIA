@@ -1,0 +1,5 @@
+train: C:/Users/alvar/tfg_riesgos_ia/datasets/train/images
+val: C:/Users/alvar/tfg_riesgos_ia/datasets/valid/images
+
+nc: 4
+names: ['falta_resguardo', 'mandos_inseguros', 'sin_indicador_emergencia', 'sin_senalizacion_riesgos']
